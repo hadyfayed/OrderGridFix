@@ -1,5 +1,1 @@
-## Welcome to GitHub Pages
-
-You can use the [Order Grid Fix](javascript:(function()%7Balert('hello%20world')%3B%7D)()%3B) Bookmarklet for easy fix for the issue.
-
-<a href="javascript:(function()%7Balert('hello%20world')%3B%7D)()%3B">bookmarklet</a>
+You can use the <a href="javascript:(function()%7Bfunction callback()%7B(function(%24)%7Bvar jQuery%3D%24%3BjQuery(%22.sales-order-index .action-tertiary.action-clear%22).trigger(%22click%22)%7D)(jQuery.noConflict(true))%7Dvar s%3Ddocument.createElement(%22script%22)%3Bs.src%3D%22https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.11.1%2Fjquery.min.js%22%3Bif(s.addEventListener)%7Bs.addEventListener(%22load%22%2Ccallback%2Cfalse)%7Delse if(s.readyState)%7Bs.onreadystatechange%3Dcallback%7Ddocument.body.appendChild(s)%3B%7D)()">Order Grid Fix</a> Bookmarklet for easy fix for the issue.
